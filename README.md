@@ -1,3 +1,5 @@
+![Swift](https://github.com/stuedev/StateMachine/actions/workflows/swift.yml/badge.svg)
+
 # StateMachine
 
 **StateMachine** is a *Property Wrapper* you can use on *state properties* to prevent your code from performing **invalid state changes**.
